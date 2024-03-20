@@ -11,17 +11,5 @@
 **/*.csproj
 **/*.sln
 **/*.exe
-**/UIElementsSchema
 .idea
 /External/.build/.*
-**/__pycache__/
-/Assets/Samples
-Assets/Samples.meta
-Assets/Resources/MAGES/config.bytes
-Assets/Resources/MAGES/config.bytes.meta
-Assets/Resources/MAGES/JARIAHistoryData.asset
-Assets/Resources/MAGES/JARIAHistoryData.asset.meta
-Assets/Photon
-Assets/Photon.meta
-Assets/TextMesh Pro
-Assets/TextMesh Pro.meta
